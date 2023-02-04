@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lavanya-love
 - 👀 I’m interested in a career in cloud computing and cloud security
 - 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on AWS and Devops
+- 💞️ I’m looking to collaborate on AWS, Java and Devops
 - 📫 I can be reached on my linkedin Lavanya Matta
 
 <!---
